@@ -1,0 +1,31 @@
+<html>
+<body>
+
+<table>
+<tr>
+  <td valign="top"> <!-- Left Column -->
+    <img src="URL_OF_YOUR_VELOCIRAPTOR_IMAGE" alt="Velociraptor" style="width:100%;"> <!-- Replace with your image URL -->
+    <h2>Checklist: Bullish Signal Candle Characteristics</h2>
+    <ul>
+      <li>- [ ] Prices within the candle do not reach a new low.</li>
+      <li>- [ ] The closing price of the signal candle is near or higher than the closing price of the previous candle.</li>
+      <li>- [ ] TP1 is not overlapped, unless it overlaps with the prices of the previous 5 to 6 candles.</li>
+      <li>- [ ] The signal candle does not have a long lower wick if the previous candle established a new low.</li>
+    </ul>
+  </td>
+  <td valign="top"> <!-- Right Column -->
+    <!-- Placeholder for T-rex image, replace with your image URL -->
+    <img src="URL_OF_YOUR_TREX_IMAGE" alt="T-Rex" style="width:100%;"> 
+    <h2>Checklist: Bearish Signal Candle Characteristics</h2>
+    <ul>
+      <li>- [ ] Description for characteristic 1.</li>
+      <li>- [ ] Description for characteristic 2.</li>
+      <li>- [ ] Description for characteristic 3.</li>
+      <li>- [ ] Description for characteristic 4.</li>
+    </ul>
+  </td>
+</tr>
+</table>
+
+</body>
+</html>
